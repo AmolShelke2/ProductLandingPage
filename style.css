@@ -111,18 +111,15 @@ body {
 }
 /* feaute section ends  */
 
-/* #How-it-works {
+#How-it-works {
   display: flex;
+  margin-top: 100px;
+  margin-bottom: 50px;
   justify-content: center;
   align-items: center;
   text-align: center;
   border-radius: 10px;
   margin-bottom: 20px;
-} */
-
-#How-it-works {
-  text-align: center;
-  margin: 20px 30px;
 }
 
 /* pricing  */
